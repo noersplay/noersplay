@@ -1,3 +1,7 @@
+<p align="center">
+  <img alig src="https://github.com/noersplay/noersplay/blob/master/about.gif" />
+</p>
+
 ### Hi there 👋
 
 <!--
